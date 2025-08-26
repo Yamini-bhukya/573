@@ -1,7 +1,25 @@
-Hi there,I'm B.Yamini
-currently learning
-skills & Tools
-connect with me
-Email:https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=gmail&logoColor=Blue&label=Email&labelColor=Green&color=Yellow
+# Hi there, I'm B. Yamini 👋  
 
-Linkedin:
+🌱 Currently learning **DevOps, Jenkins, and Java Web Projects**  
+
+---
+
+## 📬 Connect with me  
+[![Email](https://img.shields.io/badge/Email-Contact-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:byamini_cse230573@mgit.ac.in)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamini-bhukya-82a152356/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yamini-bhukya)  
+
+---
+
+## 🛠 Skills & Tools  
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Yamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamini-bhukya&show_icons=true&theme=radical)  
+
+---
