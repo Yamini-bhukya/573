@@ -3,4 +3,4 @@ currently learning
 skills & Tools
 connect with me
 Email
-Linkedin
+Linkedin:
