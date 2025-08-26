@@ -18,8 +18,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Stats  
+
 ![Yamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamini-bhukya&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamini-bhukya&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yamini-bhukya&theme=radical)  
+
 
 ---
